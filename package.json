@@ -12,5 +12,14 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^7.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogssilva/PicPay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogssilva/PicPay/issues"
+  },
+  "homepage": "https://github.com/rogssilva/PicPay#readme"
 }

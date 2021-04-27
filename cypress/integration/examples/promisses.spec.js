@@ -17,7 +17,4 @@ body: {
     tenantActiveState: "Y"    
     }
 }).then(res => console.log(res))
-
-
-
 } )
